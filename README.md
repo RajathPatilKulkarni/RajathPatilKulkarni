@@ -9,36 +9,36 @@
 <br/>
 
 <!-- Badge Bar -->
-![](https://img.shields.io/badge/🎯_Focus-AI%2FML-6C63FF?style=for-the-badge&labelColor=1a1a2e)
-![](https://img.shields.io/badge/📱_Platform-Android-3DDC84?style=for-the-badge&labelColor=1a1a2e&logo=android)
-![](https://img.shields.io/badge/☁️_Cloud-Deployments-0078D4?style=for-the-badge&labelColor=1a1a2e)
-![](https://img.shields.io/badge/🔐_Security-Research-E74C3C?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Focus-AI%2FML-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&labelColor=1a1a2e&logo=android)
+![](https://img.shields.io/badge/Cloud-Deployments-0078D4?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Security-Research-E74C3C?style=for-the-badge&labelColor=1a1a2e)
 
 <br/>
 
 ```diff
-@@  📍 Location: Bengaluru, India  |  🎓 CSE Student  @@
-+   💼 Status: Building & Shipping
-!   ⚡ Mission: Code with Purpose, Build with Passion
+@@  Location: Bengaluru, India  |  CSE Student  @@
++   Status: Building & Shipping
+!   Mission: Code with Purpose, Build with Passion
 ```
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const rajath = {
     role: "Full Stack Developer & AI Enthusiast",
-    location: "Bengaluru 🇮🇳",
+    location: "Bengaluru",
     education: "Computer Science & Engineering",
     
     currentlyWorkingOn: [
-        "🧘 AURA - AI-powered mental wellness app",
-        "🎵 Harmony Guide - Music recommendation system", 
-        "🛡️ Network security simulations",
-        "📱 Beautiful Android experiences"
+        "AURA - AI-powered mental wellness app",
+        "Harmony Guide - Music recommendation system", 
+        "Network security simulations",
+        "Beautiful Android experiences"
     ],
     
     technologies: {
@@ -50,7 +50,7 @@ const rajath = {
         tools: ["Git", "Android Studio", "VS Code", "Figma"]
     },
     
-    lifePhilosophy: "Learn. Build. Ship. Repeat. 🔄",
+    lifePhilosophy: "Learn. Build. Ship. Repeat.",
     
     funFact: "I've analyzed 170K+ songs for music recommendations! 🎶"
 };
@@ -58,16 +58,16 @@ const rajath = {
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 What I Do
+### What I Do
 
-- 🧠 Build **AI/ML models** that solve real problems
-- 📱 Create **stunning mobile apps** with modern Android
-- 🌐 Develop **full-stack web applications**
-- ☁️ Deploy **scalable cloud solutions**
-- 🔒 Explore **cybersecurity** & network simulations
-- 🎨 Design **beautiful user experiences**
+- Build **AI/ML models** that solve real problems
+- Create **stunning mobile apps** with modern Android
+- Develop **full-stack web applications**
+- Deploy **scalable cloud solutions**
+- Explore **cybersecurity** & network simulations
+- Design **beautiful user experiences**
 
-### 🎯 Currently Learning
+### Currently Learning
 
 - Advanced Deep Learning architectures
 - Kotlin Multiplatform Mobile (KMM)
@@ -78,7 +78,7 @@ const rajath = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -121,7 +121,7 @@ const rajath = {
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -129,18 +129,18 @@ const rajath = {
 <tr>
 <td width="50%" valign="top">
 
-### 🧘 AURA - Mental Wellness AI
+### AURA - Mental Wellness AI
 
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RajathPatilKulkarni/AURA)
 ![Stars](https://img.shields.io/github/stars/RajathPatilKulkarni/AURA?style=for-the-badge&color=yellow)
 
 **AI-powered mental wellness companion**
 
-🎭 **Sentiment Analysis** using Hugging Face NLP  
-📊 **Mood Analytics** with beautiful visualizations  
-🔐 **Secure Authentication** via Firebase  
-🧘 **Journaling & Meditation** tools  
-📱 Built with **Kotlin & Jetpack Compose**
+ **Sentiment Analysis** using Hugging Face NLP  
+ **Mood Analytics** with beautiful visualizations  
+ **Secure Authentication** via Firebase  
+ **Journaling & Meditation** tools  
+ Built with **Kotlin & Jetpack Compose**
 
 **Tech:** `Kotlin` `Jetpack Compose` `Firebase` `NLP` `ML`
 
@@ -154,11 +154,11 @@ const rajath = {
 
 **Intelligent Music Recommendations**
 
-📀 Analyzed **170K+ Spotify songs**  
-🤖 **Collaborative Filtering** algorithm  
-🎯 **Personalized** recommendations  
-📈 User preference learning system  
-📊 Data visualization & analytics
+ Analyzed **170K+ Spotify songs**  
+ **Collaborative Filtering** algorithm  
+ **Personalized** recommendations  
+ User preference learning system  
+ Data visualization & analytics
 
 **Tech:** `Python` `ML` `Pandas` `Collaborative Filtering`
 
@@ -168,18 +168,18 @@ const rajath = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ DDoS Attack Simulation
+### DDoS Attack Simulation
 
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RajathPatilKulkarni/DDoS-Attack-Simulation)
 ![Stars](https://img.shields.io/github/stars/RajathPatilKulkarni/DDoS-Attack-Simulation?style=for-the-badge&color=yellow)
 
 **Cybersecurity Education Tool**
 
-🌐 **Network graph** modeling  
-💥 **Attack pattern** simulation  
-📊 Real-time **traffic analysis**  
-🔬 Educational security demonstrations  
-⚡ High-performance C++ implementation
+ **Network graph** modeling  
+ **Attack pattern** simulation  
+ Real-time **traffic analysis**  
+ Educational security demonstrations  
+ High-performance C++ implementation
 
 **Tech:** `C++` `Network Security` `Algorithms`
 
@@ -193,11 +193,11 @@ const rajath = {
 
 **Cloud Computing Visualization**
 
-⚡ **IaaS, PaaS, SaaS** demonstrations  
-🌐 **Live deployment** on Netlify  
-📱 Fully **responsive** design  
-🎨 Modern **UI/UX** principles  
-📚 Educational resource for cloud concepts
+ **IaaS, PaaS, SaaS** demonstrations  
+ **Live deployment** on Netlify  
+ Fully **responsive** design  
+ Modern **UI/UX** principles  
+ Educational resource for cloud concepts
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `Netlify`
 
@@ -209,7 +209,7 @@ const rajath = {
 
 ---
 
-## 🎯 Skills & Expertise
+## Skills & Expertise
 
 <div align="center">
 
@@ -218,14 +218,14 @@ const rajath = {
 ║                    SKILL PROGRESSION                          ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  🤖 AI/ML & NLP         ████████████████████░  90%            ║
-║  📱 Mobile Development  ███████████████████░░  88%            ║
-║  🌐 Web Development     ██████████████████░░░  85%            ║
-║  ☁️ Cloud Computing     ███████████████░░░░░░  78%            ║
-║  🔐 Cybersecurity       ████████████████░░░░░  80%            ║
-║  🎨 UI/UX Design        ███████████████████░░  89%            ║
-║  📊 Data Analysis       ██████████████████░░░  86%            ║
-║  🚀 Problem Solving     ████████████████████░  95%            ║
+║   AI/ML & NLP         ████████████████████░  90%            ║
+║   Mobile Development  ███████████████████░░  88%            ║
+║   Web Development     ██████████████████░░░  85%            ║
+║   Cloud Computing     ███████████████░░░░░░  78%            ║
+║   Cybersecurity       ████████████████░░░░░  80%            ║
+║   UI/UX Design        ███████████████████░░  89%            ║
+║   Data Analysis       ██████████████████░░░  86%            ║
+║   Problem Solving     ████████████████████░  95%            ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -234,7 +234,7 @@ const rajath = {
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -244,16 +244,16 @@ const rajath = {
 
 <br/>
 
-### 💼 Open to Opportunities
+### Open to Opportunities
 
-![](https://img.shields.io/badge/🤝_Collaboration-Always%20Welcome-6C63FF?style=for-the-badge&labelColor=1a1a2e)
-![](https://img.shields.io/badge/💼_Internships-Actively%20Seeking-3DDC84?style=for-the-badge&labelColor=1a1a2e)
-![](https://img.shields.io/badge/🚀_Open%20Source-Let's%20Build-E74C3C?style=for-the-badge&labelColor=1a1a2e)
-![](https://img.shields.io/badge/☕_Coffee%20Chat-Anytime-F39C12?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/_Collaboration-Always%20Welcome-6C63FF?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/_Internships-Actively%20Seeking-3DDC84?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/_Open%20Source-Let's%20Build-E74C3C?style=for-the-badge&labelColor=1a1a2e)
+![](https://img.shields.io/badge/_Coffee%20Chat-Anytime-F39C12?style=for-the-badge&labelColor=1a1a2e)
 
 <br/>
 
-### 💬 Let's Talk About
+### Let's Talk About
 
 > AI/ML Projects • Mobile App Development • Cloud Architecture  
 > Open Source Contributions • Tech Trends • Coding Best Practices
@@ -265,7 +265,7 @@ const rajath = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling" width="100%"/>
 
 **⭐ If you find my projects interesting, drop a star!**  
-**💻 Let's build something amazing together!**
+** Let's build something amazing together!**
 
 <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20%E2%98%95-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
 
